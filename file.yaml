@@ -1,0 +1,13 @@
+file_type: csv
+dataset_name: IDS 2018 Intrusion
+file_name: archive (3).zip 
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns:
+        Dst Port (Destination port)
+        Protocol
+        Flow Duration
+        Tot Fwd Pkts (Total forward packets)
+        Tot Bwd Pkts (Total backward packets)
+        Label (Label) 
